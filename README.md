@@ -84,10 +84,4 @@ java -cp ".;lib/mysql-connector-j-8.4.0.jar;." dev.App
 **Open for Junior Java roles**
 
 [GitHub](https://github.com/Darren485) | [X/Twitter](https://twitter.com/SukiBass)
-```
-
----
-
-
-
-### 
+``` 
